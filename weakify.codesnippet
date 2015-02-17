@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>
-    __weak typeof(self weakSelf = self;</string>
+    __weak typeof(self) weakSelf = self;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>weakify</string>
 	<key>IDECodeSnippetLanguage</key>
